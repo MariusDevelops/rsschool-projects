@@ -1,0 +1,10 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 84 86" width="84" height="86">
+	<title>Shape 4</title>
+	<defs>
+		<filter x="-50%" y="-50%" width="200%" height="200%" id="f1" ><feDropShadow dx="-3.061616997868383e-16" dy="5" stdDeviation="0" flood-color="#b99401" flood-opacity=".7"/></filter>
+	</defs>
+	<style>
+		.s0 { filter: url(#f1);fill: #f5c506 } 
+	</style>
+	<path id="Shape 4" class="s0" d="m61.2 52.8v24.2l-10.5-13.7l-21.9 21.7l-26.8-83l81 29.2zm-51.6-42.9l46 48.4l5.4-5.4z" />
+</svg>
